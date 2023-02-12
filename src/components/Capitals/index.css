@@ -1,0 +1,14 @@
+.bg-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+}
